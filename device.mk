@@ -291,6 +291,8 @@ PRODUCT_PACKAGES += \
    TetheringConfigOverlay \
    WifiOverlay \
    ApertureOverlay \
+   NotchBarKiller \
+   NoCutoutOverlay \
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
