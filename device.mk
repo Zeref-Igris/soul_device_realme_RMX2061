@@ -284,7 +284,8 @@ PRODUCT_PACKAGES += \
    SystemUIOverlay \
    TelephonyOverlay \
    TetheringConfigOverlay \
-   WifiOverlay
+   WifiOverlay \
+   ApertureOverlay \
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
